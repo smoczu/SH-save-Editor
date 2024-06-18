@@ -140,6 +140,7 @@ namespace SpaceHaven_Save_Editor.References
             {930, "Techblock/Tech-Blöcke"},
             {984, "Monster Meat"},
             {985, "Human Meat"},
+            {1152, "Sentry Gun"},
             {1759, "Hull Block"},
             {1873, "Infra Scrap"},
             {1874, "Soft Scrap"},
@@ -156,12 +157,28 @@ namespace SpaceHaven_Save_Editor.References
             {1947, "Energy Scrap"},
             {1954, "Human Corpse"},
             {1955, "Monster Corpse"},
+            {1956, "Android Corpse"},
             {2053, "Medical Supplies"},
             {2058, "IV Fluid"},
             {2657, "Nuts and Seeds"},
             {2475, "Fertilizer"},
             {2797, "Slave Collar"},
-            {2715, "Explosive Ammunition"}
+            {2715, "Explosive Ammunition"},
+            {3069, "Laser Rifle"},
+            {3070, "Laser Pistol"},
+            {3071, "Plasma Cluster"},
+            {3072, "Plasma Rifle"},
+            {3077, "Hauler Corpse"},
+            {3366, "Mild Alcohol"},
+            {3378, "Grains and Hops"},
+            {3383, "Bullet Proof Vest"},
+            {3384, "Armored Vest"},
+            {3386, "Remote Control"},
+            {3388, "Oxygen Tank"},
+            {3419, "Augmentation Parts"},
+            {3512, "Exotic Ore"},
+            {3513, "Basic Ore"},
+            
         };
     }
 }
