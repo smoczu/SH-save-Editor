@@ -177,7 +177,7 @@ namespace SpaceHaven_Save_Editor.References
             {3388, "Oxygen Tank"},
             {3419, "Augmentation Parts"},
             {3512, "Exotic Ore"},
-            {3513, "Basic Ore"},
+            {3513, "Basic Ore"}
             
         };
     }
